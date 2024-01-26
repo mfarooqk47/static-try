@@ -31,22 +31,22 @@ const imageAltText = "shows castle in the background";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My short story on Hope that drives🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I have written a short story on Hope that drives.",
+    url: "https://drive.google.com/file/d/12gIukwUE_wZ98X6e-emOKTiRRw8Gyn7L/view?usp=drive_link",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Act of Kindness",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I wrote a medium blog on Act of kindness.",
+    url: "https://medium.com/@muhammadfarooqk/act-of-kindness-375fc09d6f4c",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Here is my resume.",
+    url: "https://drive.google.com/file/d/1x5pJue6HphnmJL8FhqmNGcWqaVV2PLl4/view?usp=drive_link",
   },
   {
     title: "GitHub Codespaces and github.dev",
