@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/neom.png";
+import image from "../images/socials/mountains.png";
 
-const imageAltText = "yellow and black abstract in the background";
+const imageAltText = "yellow and black in the background background";
 
 /**
  * Sort description that expands on your title on the Home component.
